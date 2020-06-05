@@ -1,5 +1,6 @@
 <html>
   <head>DASH</head>
+  <title>DASH - Deter Agents Simulating Humans</title>
 <body>
 
 <h1>Deter Agents Simulating Humans</h1>
@@ -13,7 +14,7 @@
 <h1>Contacts</h1>
 
 <h2>Jim Blythe</h2>
-<a href="https://www.isi.edu/people/blythe/about">Jim Blythe's ISI home page</a>
+<a href="https://www.isi.edu/~blythe/">Jim Blythe's ISI home page</a>
 
 
 <h2>Alexey Tregubov</h2>
@@ -23,6 +24,7 @@
 <h1>Publications</h1>
 <h2>Farm: Architecture for distributed agent-based social simulations</h2>
 <p>
+<h3>Conference: International Workshop on Massively Multiagent Systems </h3>
 In many domains, high-resolution agent-based simulations
 require experiments with a large number (tens or hundreds of millions) of
 computationally complex agents. Such large-scale experiments are usu-
@@ -54,6 +56,7 @@ algorithm cut overall runtime by 67% on average.
 
 <h2>Massive Cross-Platform Simulations of Online Social Networks</h2>
 <p>
+<h3>Conference: Proceedings of the 19th International Conference on Autonomous Agents and MultiAgent Systems</h3>
 As part of the DARPA SocialSim challenge, we address the problem of predicting behavioral phenomena including information
 spread involving hundreds of thousands of users across three major
 linked social networks: Twitter, Reddit and GitHub. Our approach
@@ -83,6 +86,7 @@ require modeling individualized, situational agent behavior from trace data that
 
 <h2>Massive Multi-Agent Data-Driven Simulations of the GitHub Ecosystem</h2>
 <p>
+<h3>Conference: International Conference on Practical Applications of Agents and Multi-Agent Systems</h3>
 Simulating and predicting planetary-scale techno-social sys-
 tems poses heavy computational and modeling challenges. The DARPA
 SocialSim program set the challenge to model the evolution of GitHub, a
@@ -112,6 +116,7 @@ actions and repositories for each agent.
 
 <h2>The DARPA SocialSim Challenge: Massive Multi-Agent Simulations of the Github Ecosystem</h2>
 <p>
+<h3>Conference: Proceedings of the 18th International Conference on Autonomous Agents and MultiAgent Systems</h3>
 We model the evolution of GitHub, a large collaborative software-development ecosystem, using massive multi-agent
   simulations as a part of DARPA's SocialSim program. Our best performing models and our agent-based simulation
   framework are described here. Six different agent models were tested based on a variety of machine learning and
