@@ -9,8 +9,19 @@
   DASH agents are used in by FARM — an agent-based simulation framework implemented in Python that supports large-scale distributed simulations.
 </p>
 
+
+<h1>Contacts</h1>
+
+<h2>Jim Blythe</h2>
+<a href="https://www.isi.edu/people/blythe/about">Jim Blythe's ISI home page</a>
+
+
+<h2>Alexey Tregubov</h2>
+<a href="https://www.isi.edu/people/tregubov/alexey_tregubov">Alexey Tregubov's ISI home page</a>
+
+
 <h1>Publications</h1>
-<h1>Farm: Architecture for distributed agent-based social simulations</h1>
+<h2>Farm: Architecture for distributed agent-based social simulations</h2>
 <p>
 In many domains, high-resolution agent-based simulations
 require experiments with a large number (tens or hundreds of millions) of
@@ -41,7 +52,7 @@ algorithm cut overall runtime by 67% on average.
 
 
 
-<h1>Massive Cross-Platform Simulations of Online Social Networks</h1>
+<h2>Massive Cross-Platform Simulations of Online Social Networks</h2>
 <p>
 As part of the DARPA SocialSim challenge, we address the problem of predicting behavioral phenomena including information
 spread involving hundreds of thousands of users across three major
@@ -70,7 +81,7 @@ require modeling individualized, situational agent behavior from trace data that
 </p>
 
 
-<h1>Massive Multi-Agent Data-Driven Simulations of the GitHub Ecosystem</h1>
+<h2>Massive Multi-Agent Data-Driven Simulations of the GitHub Ecosystem</h2>
 <p>
 Simulating and predicting planetary-scale techno-social sys-
 tems poses heavy computational and modeling challenges. The DARPA
@@ -99,7 +110,7 @@ actions and repositories for each agent.
 </p>
 
 
-<h1>The DARPA SocialSim Challenge: Massive Multi-Agent Simulations of the Github Ecosystem</h1>
+<h2>The DARPA SocialSim Challenge: Massive Multi-Agent Simulations of the Github Ecosystem</h2>
 <p>
 We model the evolution of GitHub, a large collaborative software-development ecosystem, using massive multi-agent
   simulations as a part of DARPA's SocialSim program. Our best performing models and our agent-based simulation
