@@ -3,10 +3,7 @@
     <style>
 #farmAbs {
   width: 100%;
-  padding: 50px 0;
-  text-align: center;
-  background-color: lightblue;
-  margin-top: 20px;
+  display: none;
 }
 </style>
     DASH
