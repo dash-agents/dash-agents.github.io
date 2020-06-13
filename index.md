@@ -25,6 +25,7 @@
 <h2>Farm: Architecture for distributed agent-based social simulations</h2>
 <p>
 <h3>Conference: International Workshop on Massively Multiagent Systems </h3>
+<div id="farmAbs">
 In many domains, high-resolution agent-based simulations
 require experiments with a large number (tens or hundreds of millions) of
 computationally complex agents. Such large-scale experiments are usu-
@@ -48,6 +49,18 @@ centralized storage and messaging/notification services.
 This architecture was used in a large-scale Github simulation with up to
 ten million agents. In experiments in this domain, the graph partitioning
 algorithm cut overall runtime by 67% on average.
+</div>
+<button onclick='showAbstract("farmAbs")'>abstract</button>
+<script>
+  function showAbsctrat(id) {
+    var x = document.getElementById(id);
+    if (x.style.display === "none") {
+      x.style.display = "block";
+    } else {
+      x.style.display = "none";
+    }
+  }
+</script>
   <br>
   <a href="https://scholar.google.com/scholar?oi=bibs&cluster=18364638581314166609&btnI=1&hl=en">Read paper</a>
 </p>
