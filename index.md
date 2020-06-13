@@ -1,33 +1,6 @@
 <html>
   <head>
-    <style>
-.abs {
-    width: 100%;
-    border-style: solid;
-    padding-top: 10px;
-    padding-right: 10px;
-    padding-bottom: 10px;
-    padding-left: 10px;
-    display: none;
-}
-
-.title {
-    font-weight: bold;
-    font-size: 1.25em;
-    padding-top: 1em;
-    padding-bottom: 0.25em;
-}
-
-.conference {
-    font-size: 1em;
-    padding-bottom: 0.5em;
-}
-
-.authors {
-    font-style: oblique;
-}
-
-</style>
+    
   <title>DASH - Deter Agents Simulating Humans</title>
   </head>
 <body>
@@ -51,6 +24,8 @@
 
 
 <h1>Publications</h1>
+<link rel="stylesheet" type="text/css" href="styles.css">
+
 <script>
   function showAbstract(but, id) {
     var x = document.getElementById(id);
