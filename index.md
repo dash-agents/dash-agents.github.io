@@ -1,5 +1,16 @@
 <html>
-  <head>DASH</head>
+  <head>
+    <style>
+#farmAbs {
+  width: 100%;
+  padding: 50px 0;
+  text-align: center;
+  background-color: lightblue;
+  margin-top: 20px;
+}
+</style>
+    DASH
+  </head>
   <title>DASH - Deter Agents Simulating Humans</title>
 <body>
 
@@ -52,7 +63,7 @@ algorithm cut overall runtime by 67% on average.
 </div>
 <button onclick='showAbstract("farmAbs")'>abstract</button>
 <script>
-  function showAbsctrat(id) {
+  function showAbstract(id) {
     var x = document.getElementById(id);
     if (x.style.display === "none") {
       x.style.display = "block";
