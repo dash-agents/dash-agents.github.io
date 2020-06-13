@@ -28,8 +28,8 @@
 }
 
 </style>
-  </head>
   <title>DASH - Deter Agents Simulating Humans</title>
+  </head>
 <body>
 
 <h1>Deter Agents Simulating Humans</h1>
